@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StartMenu.unity
+    guid: 1b5b57c7cb5773849a965d675dbe7609
+  - enabled: 1
+    path: Assets/BasketBallGameVR.unity
+    guid: fc7c3efc3d4cdcd48b6b484d1f5040ac
+  - enabled: 1
+    path: Assets/CoderBasketball.unity
+    guid: 927a00627ecc43f49ae3960f04e7995e
